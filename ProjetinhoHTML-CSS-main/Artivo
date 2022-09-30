@@ -2,7 +2,6 @@
 <!DOCTYPE html>
   <html lang="pt-br">
 <body style="background-color:#dbd38c">
-  <body background= "livro.jpg">
 <style>
 h1 {text-align: center;
    font-size: 60px}
@@ -19,7 +18,7 @@ p {text-align: center;
 </head>
 
 <body>
-
+body background= "teclado
 <p>Para começar temos que encontrar o problema, uma forma fácil de notar é o aumento do tamanho das letras que aparecem na tela</p>
 <p>Como no exemplo : ISTO É UM EXEMPLO</p>
 
