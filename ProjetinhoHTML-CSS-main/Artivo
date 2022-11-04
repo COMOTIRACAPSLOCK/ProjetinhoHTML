@@ -21,7 +21,8 @@ p {text-align: center;
 </head>
 
 <body>
-  <h1>Tutorial como desligar a função "Capslock"</h1>
+  <header class"cabeçalho">
+  <h1 class="cabeçalho_titulo"> Tutorial como desligar a função "Capslock"</h1>
 <p>Para começar temos que encontrar o problema, uma forma fácil de notar é o aumento do tamanho das letras que aparecem na tela</p>
 <p>Como no exemplo : ISTO É UM EXEMPLO</p>
 
